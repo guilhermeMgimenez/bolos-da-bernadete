@@ -39,10 +39,19 @@ body{
     font-size: 28px;
 }
 .menu{
+    color: #669BBC;
     background-color: #FDF0D5;
     margin-top: 0;
     margin-right: auto;
     margin-bottom: 0;
     margin-left: auto;
     text-align: center;
+    width: 1200PX;
+    padding-top: 19PX;
+    padding-bottom: 19px;
+}
+.item-menu{
+    color: #669BBC;
+    font-size: 60;
+    font-weight: 500;
 }
