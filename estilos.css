@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+.cabecalho{
+    background-image: url("imagens/imgfundo.jpg");
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    width: 1200px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    text-align: center;
+
+} 
+
+.logo{
+    width: 170px;
+    height: 170px;
+    border: 5px solid #780000;
+    background-color: white;
+    padding: 10px;
+    border-radius: 100px;
+}
+.nome-loja{
+    font-size: 60px;
+    text-align: center
+    color: white;}
